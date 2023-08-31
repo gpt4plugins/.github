@@ -11,4 +11,4 @@ https://openai.com/policies/usage-policies#plugin-policies<br />
 <a href="https://platform.openai.com/docs/guides/production-best-practices">Production Best Practices</a><br />
 <a href="https://platform.openai.com/docs/guides/error-codes">Error Codes</a><br />
 
-<a href="https://github.com/xtends>xtends</a><br />
+<a href="https://github.com/xtends">xtends</a><br />
