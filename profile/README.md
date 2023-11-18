@@ -1,6 +1,6 @@
 https://openai.com/blog/chatgpt-plugins<br />
 https://platform.openai.com/docs/introduction<br />
-https://openai.com/policies/usage-policies#plugin-policies<br />
+https://openai.com/policies/usage-policies#plugin-policies<br /><br />
 <a href="https://openai.com/pricing">Pricing</a><br />
 
 <a href="https://platform.openai.com/docs/plugins/introduction">plugins-documentation</a><br />
