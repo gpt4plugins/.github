@@ -12,3 +12,5 @@ https://openai.com/policies/usage-policies#plugin-policies<br />
 <a href="https://platform.openai.com/docs/guides/error-codes">Error Codes</a><br />
 
 <a href="https://github.com/xtends">xtends</a><br />
+<a href="https://platform.openai.com/docs/guides/prompt-engineering">prompt engineering</a><br />
+<a href="https://platform.openai.com/docs/actions">GPT actions</a><br />
