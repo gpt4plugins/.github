@@ -1,4 +1,5 @@
-#ml4llm machine learning for local language models
+#ml4llm machine learning for local language models<br />
+#collection of resources to support GPT4 agent creation and plugin libraries for further development<br />
 https://openai.com/blog/chatgpt-plugins<br />
 https://platform.openai.com/docs/introduction<br />
 https://openai.com/policies/usage-policies#plugin-policies<br /><br />
