@@ -1,5 +1,7 @@
 #ml4llm machine learning for local language models<br />
 #collection of resources to support GPT4 agent creation and plugin libraries for further development<br />
+<br />
+including <a href="https://github.com/gpt4plugins/awesome-chatgpt-prompts">awesome-chatgpt-prompts</a> point of departure<br />
 https://openai.com/blog/chatgpt-plugins<br />
 https://platform.openai.com/docs/introduction<br />
 https://openai.com/policies/usage-policies#plugin-policies<br /><br />
